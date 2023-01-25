@@ -1,0 +1,15 @@
+public class ToasterDoneToDirty : ITransition<ToasterState, ToasterFSM>
+{
+    private ToasterState _targetState = ToasterState.Dirty;
+    public override ToasterState TargetState { get { return _targetState; } }
+
+    public ToasterDoneToDirty(ToasterFSM fsm)
+    {
+        _fsm = fsm;
+    }
+
+    public override bool TransitionCheck()
+    {
+        return !_fsm.HasBread() && _fsm.NumberOfUses > 3;
+    }
+}

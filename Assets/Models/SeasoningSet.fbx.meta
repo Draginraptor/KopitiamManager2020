@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: 6d6fa4a2d197df148930d70bbb3bd21a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Basket
+    100002: PepperBody
+    100004: PepperCap
+    100006: PepperContent
+    100008: //RootNode
+    100010: SoySauceBody
+    100012: SoySauceCap
+    100014: SoySauceContent
+    400000: Basket
+    400002: PepperBody
+    400004: PepperCap
+    400006: PepperContent
+    400008: //RootNode
+    400010: SoySauceBody
+    400012: SoySauceCap
+    400014: SoySauceContent
+    2100000: No Name
+    2300000: Basket
+    2300002: PepperBody
+    2300004: PepperCap
+    2300006: PepperContent
+    2300008: SoySauceBody
+    2300010: SoySauceCap
+    2300012: SoySauceContent
+    3300000: Basket
+    3300002: PepperBody
+    3300004: PepperCap
+    3300006: PepperContent
+    3300008: SoySauceBody
+    3300010: SoySauceCap
+    3300012: SoySauceContent
+    4300000: Basket
+    4300002: SoySauceBody
+    4300004: SoySauceCap
+    4300006: SoySauceContent
+    4300008: PepperBody
+    4300010: PepperCap
+    4300012: PepperContent
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
